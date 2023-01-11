@@ -1,4 +1,4 @@
-# 104 Growth Hacking Swipe (ChatGPT)
+# Growth Hacking Swipe (ChatGPT)
 
 Growth Hacking Frameworks
 -------------------------
